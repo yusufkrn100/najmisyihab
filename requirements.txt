@@ -5,5 +5,5 @@ time
 numpy
 altair
 inspect
+seaborn
 textwrap
-

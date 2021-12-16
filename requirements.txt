@@ -6,6 +6,4 @@ numpy
 altair
 inspect
 textwrap
-OrderedDict
-get_logger
-Image
+

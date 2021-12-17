@@ -1,9 +1,0 @@
-streamlit==1.2.0
-pandas
-matplotlib
-time
-numpy
-altair
-inspect
-seaborn
-textwrap
